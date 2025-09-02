@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZWAS_GROCERY",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZWAS_GROCERY",
+  "sapObjectType": "ZWAS_GROCERY",
+  "rootNode": true
+}
