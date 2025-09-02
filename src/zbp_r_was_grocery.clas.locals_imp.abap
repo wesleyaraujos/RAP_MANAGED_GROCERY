@@ -13,7 +13,7 @@ CLASS LHC_ZR_WAS_GROCERY IMPLEMENTATION.
   METHOD GET_GLOBAL_AUTHORIZATIONS.
   ENDMETHOD.
   METHOD checkExpirationDate.
-    "
+*Test
     DATA: lt_groceries TYPE TABLE FOR READ RESULT zr_was_grocery,
               ls_grocery TYPE STRUCTURE FOR READ RESULT zr_was_grocery,
               lv_expiration TYPE d,
